@@ -1,0 +1,13 @@
+C:\devbuild4\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.exe
+C:\devbuild4\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.deps.json
+C:\devbuild4\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.runtimeconfig.json
+C:\devbuild4\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.runtimeconfig.dev.json
+C:\devbuild4\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.dll
+C:\devbuild4\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.pdb
+C:\devbuild4\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.csprojAssemblyReference.cache
+C:\devbuild4\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.AssemblyInfoInputs.cache
+C:\devbuild4\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.AssemblyInfo.cs
+C:\devbuild4\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.csproj.CoreCompileInputs.cache
+C:\devbuild4\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.dll
+C:\devbuild4\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.pdb
+C:\devbuild4\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.genruntimeconfig.cache
